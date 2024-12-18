@@ -1,3 +1,15 @@
 img{width:400px;}
 
+body {
+    background-color: #8C001A
+  }
 
+  p {
+    color: white;
+  }
+
+img{
+    border-width: 15px;
+    border-color: #FDBB30;
+    border-style: solid;}
+}
